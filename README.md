@@ -48,3 +48,25 @@ Testable Predictions:
 •  Anomalous lensing from dipolar boosts
 •  Lab plasmoid warp analogs
 The universe is simple: one filled dipolar magnetic medium, self-organizing into spherical core + cubic lattice, self-resonant via β-harmonics, self-creating through flux-tube geometry, self-viewing through local coherence. No ad-hoc patches, no extra ontological dimensions, no exotic matter — just one substance knowing itself from every viewpoint.
+
+# UHT-EPR + Uon
+
+UHT-EPR + Uon unifies physics from a single eternal magnetic dipole (uon) filling the vacuum. All forces, entanglement (flux tubes), time (phase-locking in static block), gravity (torsion), consciousness (self-viewing loops) emerge via β ≈ 0.128 resonance.
+
+The universe is a spherical black-hole-like coherent core (finite density ρ(r) = ρ₀ exp(−β r / λ_res)) inside a cubic dipolar lattice boundary driving acceleration (Λ_eff ∝ β Δμ / R_core).
+
+Simulations confirm density fall-off, damping shell (v_eff → 0), phase oscillation, chain entanglement, CMB cubic hints, metric evolution.
+
+No exotics, no singularity — one medium self-creating itself.
+
+Developed by Thomas F. Voloski III in collaboration with foundational insights from Dr. Weiping Yu’s Uon Theory (NASA/ZPF Technologies Douglas M.).
+
+See the full PDF report: [UHT-EPR + Uon Calibrated Resonance2.pdf](UHT-EPR + Uon Calibrated Resonance2.pdf)
+
+Key simulations:
+- Proton (15 uons)
+- Electron (5 uons)
+- Neutron (15 uons)
+- Deuteron (30 uons)
+- Alpha (60 uons)
+- H1 atom (20 uons)
