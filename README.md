@@ -1,3 +1,47 @@
+# UHT-EPR + Uon
+
+**UHT-EPR + Uon** unifies physics from a single eternal magnetic dipole (“uon”) filling the vacuum as a dense mechanical medium. All particles, forces, nuclei, entanglement (flux tubes), gravity (torsional drag), and even cosmological structures emerge via torque-balanced phase-locking and the universal scaling parameter **β ≈ 0.128**.
+
+The observable universe is modeled as a **spherical black-hole-like coherent core** (finite density, no singularity) inside a cubic dipolar lattice boundary.
+
+**Latest version (Feb 17 2026)**: [Zenodo v4](https://doi.org/10.5281/zenodo.18671199)
+
+### Key Features
+- No point-like particles, no Higgs, no exotics  
+- No singularities — black-hole interiors are finite-density uon cores with damping shells  
+- Same β calibrates electron/proton masses **and** black-hole density profiles  
+- Fully reproducible simulations (all code runs in Colab)
+
+### Files
+**PDFs** (in `/pdfs` folder)  
+- `UHT-EPR + Uon Calibrated Resonance Simulations of Emergent Matter… 2026_Final.pdf` ← Full 52-page theory + all sims  
+- `Cosmological Model Spherical Black-Hole-Like Core…pdf` ← Focused black-hole extension  
+
+**Code** (in `/code` folder — coming in next commit)  
+Clean `.py` files for every simulation (proton, electron, neutron, black-hole density profile, etc.)
+
+### Note for Users
+PDF text extraction can corrupt code formatting (indentation loss, typos).  
+**Best practice**: Copy from PDF → paste into Colab/Jupyter (formatting usually auto-fixes)  
+or use the clean `.py` files in the `/code` folder.
+
+### Changelog
+**Feb 17 2026 (v4)**  
+- Added boson resonances, quark triplets, neutrino vortex  
+- Added black-hole finite-density core with no singularity (ρ(r) = ρ₀ exp(−β r / λ_res))  
+- Full unification from particles to cosmology  
+
+**Previous versions** archived for reference.
+
+### Resources
+- Zenodo (latest): https://doi.org/10.5281/zenodo.18671199  
+- Full theory PDF (direct download)  
+- Collaboration welcome — open issues or DM on X @TVoloski
+
+Developed by Thomas F. Voloski III  
+Building on Dr. Weiping Yu’s foundational Uon Theory (NASA) and insights from Douglas Miller (ZPF Technologies)
+
+
 UHT-EPR + Uon unifies physics from a single eternal magnetic dipole (uon) filling the vacuum. All forces, entanglement (flux tubes), time (phase-locking in static block), gravity (torsion), consciousness (self-viewing loops) emerge via β ≈ 0.128 resonance. The universe is a spherical black-hole-like coherent core (finite density ρ(r) = ρ₀ exp(−β r / λ_res)) inside a cubic dipolar lattice boundary driving acceleration (Λ_eff ∝ β Δμ / R_core). Simulations confirm density fall-off, damping shell (v_eff → 0), phase oscillation, chain entanglement, CMB cubic hints, metric evolution. No exotics, no singularity — one medium self-creating itself.
 
 UHT-EPR + Uon is a unified theoretical framework that reinterprets all of physics — from quantum mechanics and relativity to cosmology, entanglement, consciousness, and ZPE dynamics — as emergent phenomena arising from a single, irreducible, eternal entity: the uon, a vortex-like, inseparable magnetic dipole (N/S poles intrinsically bound, no isolated monopoles possible).
